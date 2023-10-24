@@ -1,0 +1,10 @@
+MainWindow
+  focusable: false
+  size: 500 500
+  
+  Button
+    focusable: true
+    id: clickMeButton
+    text: Jump!
+    width: 50
+    height: 30

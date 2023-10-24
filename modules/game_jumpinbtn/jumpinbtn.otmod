@@ -1,0 +1,9 @@
+Module
+  name: game_jumpinbtn
+  description: A window containing a very shy button.
+  author: Filipe Rodrigues
+  website: https://filiperodrigues.net
+  sandboxed: true
+  scripts: [ jumpinbtn.lua ]
+  @onLoad: init()
+  @onUnload: terminate()
